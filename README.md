@@ -21,29 +21,6 @@ A responsive personal brand and portfolio website showcasing **Katlego Queeneth 
 * Vanilla JavaScript
 * Google Fonts
 
-**No frameworks or build tools required.**
-
-## 📁 Project Structure
-
-```text
-index.html
-style.css
-script.js
-images/
-video/
-```
-
-## 🚀 Run Locally
-
-Clone the repository and open `index.html` in your browser, or use **Live Server** in VS Code.
-
-```bash
-git clone https://github.com/LesediKganya1920/<repository-name>.git
-```
-
-## 🌐 Deployment
-
-This static website can be deployed using **GitHub Pages**.
 
 ## 👩🏾‍💻 Developer
 
